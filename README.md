@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, my name is John Davidson. I am a web developer.
 
 Living and learning, watching and reading, listening and listening some more! The coding life! One year in and how did I live so long without these bugs. My name is John Davidson, one of those late starters on the coding journey. My new found life now consists of building websites/apps and breaking them. Figuring out how to fix them is now all consuming! 
 
