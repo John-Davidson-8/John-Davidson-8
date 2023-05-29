@@ -1,4 +1,4 @@
-![bridge](https://github.com/John-Davidson-8/John-Davidson-8/blob/main/starry-barvas.jpeg)
+![bridge](https://github.com/John-Davidson-8/John-Davidson-8/blob/main/barvas-crop.jpeg)
 
 
 ### Hello, my name is John Davidson. I am a web developer.
