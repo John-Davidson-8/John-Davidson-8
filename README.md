@@ -14,8 +14,8 @@ and breaking them. Figuring out how to fix them is now all consuming.
 
 🤔 Always looking for help and advice on issues ranging from tips for portfolio website to "oh no! Why did that media queary screw up the whole site!"
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Davidson-8)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Davidson-8)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Davidson-8&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Davidson-8&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Davidson-8&show_icons=true&theme=radical) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Davidson-8&show_icons=true&theme=transparent)
 
