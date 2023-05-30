@@ -13,3 +13,5 @@ and breaking them. Figuring out how to fix them is now all consuming.
 👯 Looking to dive into the deep waters of open source and working with others. Looking to learn and gain experience on collaborative projects. 
 
 🤔 Always looking for help and advice on issues ranging from tips for portfolio website to "oh no! Why did that media queary screw up the whole site!"
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Davidson-8)](https://github.com/anuraghazra/github-readme-stats)
