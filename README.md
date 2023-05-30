@@ -19,4 +19,3 @@ and breaking them. Figuring out how to fix them is now all consuming.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Davidson-8&show_icons=true&theme=radical) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Davidson-8&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Davidson-8)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Davidson-8&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
