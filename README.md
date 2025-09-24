@@ -7,7 +7,7 @@ Living and learning, watching and reading, listening and listening somemore! The
 
 🔭 I am currently working on various Frontend Mentor projects mostly with HTML, CSS (Flexbox and Grid), Git and Github. Also, the portfolio website is under construction as I tackle the meaty language that is Javascript. 
 
-🌱 Diving deep into the world of E-commerce on Shopify platform which has introduced me to Shopify Liquid. Shopify is the ideal platform to create on as it Liquid works great with HTML, CSS and Javascript. 
+🌱 Diving deep into the world of E-commerce on Shopify platform which has introduced me to Shopify Liquid. Shopify is the ideal platform to create on as Liquid works great with HTML, CSS and Javascript. 
 
 👯 Looking to dive into the deep waters of open source and working with others. Looking to learn and gain experience on collaborative projects. 
 
