@@ -31,4 +31,5 @@ A late starter on the coding journey. I've been learning since May 2022, and I l
 
 ## 📫 Find me
 - 🌐 Portfolio: [johnmdavidson.com](https://johnmdavidson.com)
+- 💼 LinkedIn: [John Davidson](https://www.linkedin.com/in/john-davidson-b16b20378/)
 - 🎯 Frontend Mentor: [@John-Davidson-8](https://www.frontendmentor.io/profile/John-Davidson-8)
